@@ -15,7 +15,7 @@ nbds_colab is a template repository for small to medium sized data science proje
 
 ## Getting started
 
-Log in to your GitHub account (required for GitHub templates to work) then click [nbds_colab_template](https://github.com/hallmx/nbds_colab/generate) to create a new repository from this template. Enter a name for your project and click 'Create repository from template'. A new repo based on the template will be created in your GitHUb.
+Log in to your GitHub account (required for GitHub templates to work) then click [nbds_colab_template](https://github.com/hallmx/nbds_colab_template/generate) to create a new repository from this template. Enter a name for your project and click 'Create repository from template'. A new repo based on the template will be created in your GitHUb.
 
 ## Documentation
 
