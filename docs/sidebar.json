@@ -1,0 +1,17 @@
+{
+  "nbds_colab": {
+    "Overview": "/",
+    "Core": "/core",
+    "DSTemplate1": "/dstemplate1",
+    "DSTemplate2": "/dstemplate2",
+    "DSTemplate3": "/dstemplate3",
+    "Ensemble1": "/ensemble1",
+    "Ensemble2": "/ensemble2",
+    "Final ": "/final",
+    "Common": "/common",
+    "Visualizations": "/vis",
+    "Processing": "/dataproc",
+    "Data": "/data",
+    "References": "/refs"
+  }
+}
